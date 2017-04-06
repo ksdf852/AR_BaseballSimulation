@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 9bc8fb734e6a9dc41bdb1b5c9527b1a3
+timeCreated: 1458866238
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ChestEndEffector
+    100002: ChestOriginEffector
+    100004: //RootNode
+    100006: Cocodrilo_Ctrl:Reference
+    100008: Head
+    100010: HeadEffector
+    100012: Hips
+    100014: HipsEffector
+    100016: LeftAnkleEffector
+    100018: LeftAnkleEffectorPivot1
+    100020: LeftAnkleEffectorPivot2
+    100022: LeftArm
+    100024: LeftElbowEffector
+    100026: LeftFoot
+    100028: LeftForeArm
+    100030: LeftForeArmRoll
+    100032: LeftHand
+    100034: LeftHandIndex1
+    100036: LeftHandIndex2
+    100038: LeftHandIndex3
+    100040: LeftHandIndex4
+    100042: LeftHandIndexEffector
+    100044: LeftHandMiddle1
+    100046: LeftHandMiddle2
+    100048: LeftHandMiddle3
+    100050: LeftHandMiddle4
+    100052: LeftHandMiddleEffector
+    100054: LeftHandRing1
+    100056: LeftHandRing2
+    100058: LeftHandRing3
+    100060: LeftHandRing4
+    100062: LeftHandRingEffector
+    100064: LeftHandThumb1
+    100066: LeftHandThumb2
+    100068: LeftHandThumb3
+    100070: LeftHandThumb4
+    100072: LeftHandThumbEffector
+    100074: LeftHipEffector
+    100076: LeftKneeEffector
+    100078: LeftLeg
+    100080: LeftLegRoll
+    100082: LeftShoulder
+    100084: LeftShoulderEffector
+    100086: LeftUpLeg
+    100088: LeftWristEffector
+    100090: Marker Tail1
+    100092: Marker Tail2
+    100094: Marker Tail3
+    100096: Marker Tail4
+    100098: Marker Tail5
+    100100: Reference:BonesUnselectable
+    100102: Reference:BonesUnselectable 1
+    100104: Reference:BonesUnselectable 10
+    100106: Reference:BonesUnselectable 11
+    100108: Reference:BonesUnselectable 12
+    100110: Reference:BonesUnselectable 13
+    100112: Reference:BonesUnselectable 14
+    100114: Reference:BonesUnselectable 15
+    100116: Reference:BonesUnselectable 16
+    100118: Reference:BonesUnselectable 17
+    100120: Reference:BonesUnselectable 18
+    100122: Reference:BonesUnselectable 19
+    100124: Reference:BonesUnselectable 2
+    100126: Reference:BonesUnselectable 20
+    100128: Reference:BonesUnselectable 21
+    100130: Reference:BonesUnselectable 22
+    100132: Reference:BonesUnselectable 23
+    100134: Reference:BonesUnselectable 24
+    100136: Reference:BonesUnselectable 25
+    100138: Reference:BonesUnselectable 26
+    100140: Reference:BonesUnselectable 27
+    100142: Reference:BonesUnselectable 28
+    100144: Reference:BonesUnselectable 29
+    100146: Reference:BonesUnselectable 3
+    100148: Reference:BonesUnselectable 30
+    100150: Reference:BonesUnselectable 31
+    100152: Reference:BonesUnselectable 32
+    100154: Reference:BonesUnselectable 33
+    100156: Reference:BonesUnselectable 34
+    100158: Reference:BonesUnselectable 35
+    100160: Reference:BonesUnselectable 36
+    100162: Reference:BonesUnselectable 37
+    100164: Reference:BonesUnselectable 38
+    100166: Reference:BonesUnselectable 39
+    100168: Reference:BonesUnselectable 4
+    100170: Reference:BonesUnselectable 40
+    100172: Reference:BonesUnselectable 41
+    100174: Reference:BonesUnselectable 42
+    100176: Reference:BonesUnselectable 43
+    100178: Reference:BonesUnselectable 44
+    100180: Reference:BonesUnselectable 45
+    100182: Reference:BonesUnselectable 46
+    100184: Reference:BonesUnselectable 47
+    100186: Reference:BonesUnselectable 48
+    100188: Reference:BonesUnselectable 49
+    100190: Reference:BonesUnselectable 5
+    100192: Reference:BonesUnselectable 50
+    100194: Reference:BonesUnselectable 51
+    100196: Reference:BonesUnselectable 52
+    100198: Reference:BonesUnselectable 53
+    100200: Reference:BonesUnselectable 54
+    100202: Reference:BonesUnselectable 55
+    100204: Reference:BonesUnselectable 56
+    100206: Reference:BonesUnselectable 57
+    100208: Reference:BonesUnselectable 58
+    100210: Reference:BonesUnselectable 59
+    100212: Reference:BonesUnselectable 6
+    100214: Reference:BonesUnselectable 60
+    100216: Reference:BonesUnselectable 61
+    100218: Reference:BonesUnselectable 62
+    100220: Reference:BonesUnselectable 63
+    100222: Reference:BonesUnselectable 64
+    100224: Reference:BonesUnselectable 65
+    100226: Reference:BonesUnselectable 66
+    100228: Reference:BonesUnselectable 67
+    100230: Reference:BonesUnselectable 68
+    100232: Reference:BonesUnselectable 69
+    100234: Reference:BonesUnselectable 7
+    100236: Reference:BonesUnselectable 70
+    100238: Reference:BonesUnselectable 71
+    100240: Reference:BonesUnselectable 72
+    100242: Reference:BonesUnselectable 8
+    100244: Reference:BonesUnselectable 9
+    100246: Reference:cocodrilo
+    100248: Reference:CtrDown
+    100250: Reference:CtrDownLeft
+    100252: Reference:CtrDownMiddle
+    100254: Reference:CtrDownRight
+    100256: Reference:CtrUp
+    100258: Reference:CtrUpLeft
+    100260: Reference:CtrUpMiddle
+    100262: Reference:CtrUpRight
+    100264: Reference:escamas
+    100266: Reference:Hips
+    100268: Reference:LeftForeArmRoll
+    100270: Reference:LeftLegRoll
+    100272: Reference:null
+    100274: Reference:null1
+    100276: Reference:null11
+    100278: Reference:null12
+    100280: Reference:null13
+    100282: Reference:null2
+    100284: Reference:null33
+    100286: Reference:null35
+    100288: Reference:null37
+    100290: Reference:null39
+    100292: Reference:null4
+    100294: Reference:null41
+    100296: Reference:null42
+    100298: Reference:null43
+    100300: Reference:null6
+    100302: Reference:null7
+    100304: Reference:null8
+    100306: Reference:ojo_der
+    100308: Reference:ojo_izq
+    100310: Reference:Reference
+    100312: Reference:RightForeArmRoll
+    100314: Reference:RightLegRoll
+    100316: Reference:root
+    100318: Reference:Tongue1
+    100320: Reference:Tongue2
+    100322: Reference:Tongue3
+    100324: Reference:TongueEnd
+    100326: RightAnkleEffector
+    100328: RightAnkleEffectorPivot1
+    100330: RightAnkleEffectorPivot2
+    100332: RightArm
+    100334: RightElbowEffector
+    100336: RightFoot
+    100338: RightForeArm
+    100340: RightForeArmRoll
+    100342: RightHand
+    100344: RightHandIndex1
+    100346: RightHandIndex2
+    100348: RightHandIndex3
+    100350: RightHandIndex4
+    100352: RightHandIndexEffector
+    100354: RightHandMiddle1
+    100356: RightHandMiddle2
+    100358: RightHandMiddle3
+    100360: RightHandMiddle4
+    100362: RightHandMiddleEffector
+    100364: RightHandRing1
+    100366: RightHandRing2
+    100368: RightHandRing3
+    100370: RightHandRing4
+    100372: RightHandRingEffector
+    100374: RightHandThumb1
+    100376: RightHandThumb2
+    100378: RightHandThumb3
+    100380: RightHandThumb4
+    100382: RightHandThumbEffector
+    100384: RightHipEffector
+    100386: RightKneeEffector
+    100388: RightLeg
+    100390: RightLegRoll
+    100392: RightShoulder
+    100394: RightShoulderEffector
+    100396: RightUpLeg
+    100398: RightWristEffector
+    100400: Spine
+    100402: Spine1
+    100404: Spine2
+    400000: ChestEndEffector
+    400002: ChestOriginEffector
+    400004: //RootNode
+    400006: Cocodrilo_Ctrl:Reference
+    400008: Head
+    400010: HeadEffector
+    400012: Hips
+    400014: HipsEffector
+    400016: LeftAnkleEffector
+    400018: LeftAnkleEffectorPivot1
+    400020: LeftAnkleEffectorPivot2
+    400022: LeftArm
+    400024: LeftElbowEffector
+    400026: LeftFoot
+    400028: LeftForeArm
+    400030: LeftForeArmRoll
+    400032: LeftHand
+    400034: LeftHandIndex1
+    400036: LeftHandIndex2
+    400038: LeftHandIndex3
+    400040: LeftHandIndex4
+    400042: LeftHandIndexEffector
+    400044: LeftHandMiddle1
+    400046: LeftHandMiddle2
+    400048: LeftHandMiddle3
+    400050: LeftHandMiddle4
+    400052: LeftHandMiddleEffector
+    400054: LeftHandRing1
+    400056: LeftHandRing2
+    400058: LeftHandRing3
+    400060: LeftHandRing4
+    400062: LeftHandRingEffector
+    400064: LeftHandThumb1
+    400066: LeftHandThumb2
+    400068: LeftHandThumb3
+    400070: LeftHandThumb4
+    400072: LeftHandThumbEffector
+    400074: LeftHipEffector
+    400076: LeftKneeEffector
+    400078: LeftLeg
+    400080: LeftLegRoll
+    400082: LeftShoulder
+    400084: LeftShoulderEffector
+    400086: LeftUpLeg
+    400088: LeftWristEffector
+    400090: Marker Tail1
+    400092: Marker Tail2
+    400094: Marker Tail3
+    400096: Marker Tail4
+    400098: Marker Tail5
+    400100: Reference:BonesUnselectable
+    400102: Reference:BonesUnselectable 1
+    400104: Reference:BonesUnselectable 10
+    400106: Reference:BonesUnselectable 11
+    400108: Reference:BonesUnselectable 12
+    400110: Reference:BonesUnselectable 13
+    400112: Reference:BonesUnselectable 14
+    400114: Reference:BonesUnselectable 15
+    400116: Reference:BonesUnselectable 16
+    400118: Reference:BonesUnselectable 17
+    400120: Reference:BonesUnselectable 18
+    400122: Reference:BonesUnselectable 19
+    400124: Reference:BonesUnselectable 2
+    400126: Reference:BonesUnselectable 20
+    400128: Reference:BonesUnselectable 21
+    400130: Reference:BonesUnselectable 22
+    400132: Reference:BonesUnselectable 23
+    400134: Reference:BonesUnselectable 24
+    400136: Reference:BonesUnselectable 25
+    400138: Reference:BonesUnselectable 26
+    400140: Reference:BonesUnselectable 27
+    400142: Reference:BonesUnselectable 28
+    400144: Reference:BonesUnselectable 29
+    400146: Reference:BonesUnselectable 3
+    400148: Reference:BonesUnselectable 30
+    400150: Reference:BonesUnselectable 31
+    400152: Reference:BonesUnselectable 32
+    400154: Reference:BonesUnselectable 33
+    400156: Reference:BonesUnselectable 34
+    400158: Reference:BonesUnselectable 35
+    400160: Reference:BonesUnselectable 36
+    400162: Reference:BonesUnselectable 37
+    400164: Reference:BonesUnselectable 38
+    400166: Reference:BonesUnselectable 39
+    400168: Reference:BonesUnselectable 4
+    400170: Reference:BonesUnselectable 40
+    400172: Reference:BonesUnselectable 41
+    400174: Reference:BonesUnselectable 42
+    400176: Reference:BonesUnselectable 43
+    400178: Reference:BonesUnselectable 44
+    400180: Reference:BonesUnselectable 45
+    400182: Reference:BonesUnselectable 46
+    400184: Reference:BonesUnselectable 47
+    400186: Reference:BonesUnselectable 48
+    400188: Reference:BonesUnselectable 49
+    400190: Reference:BonesUnselectable 5
+    400192: Reference:BonesUnselectable 50
+    400194: Reference:BonesUnselectable 51
+    400196: Reference:BonesUnselectable 52
+    400198: Reference:BonesUnselectable 53
+    400200: Reference:BonesUnselectable 54
+    400202: Reference:BonesUnselectable 55
+    400204: Reference:BonesUnselectable 56
+    400206: Reference:BonesUnselectable 57
+    400208: Reference:BonesUnselectable 58
+    400210: Reference:BonesUnselectable 59
+    400212: Reference:BonesUnselectable 6
+    400214: Reference:BonesUnselectable 60
+    400216: Reference:BonesUnselectable 61
+    400218: Reference:BonesUnselectable 62
+    400220: Reference:BonesUnselectable 63
+    400222: Reference:BonesUnselectable 64
+    400224: Reference:BonesUnselectable 65
+    400226: Reference:BonesUnselectable 66
+    400228: Reference:BonesUnselectable 67
+    400230: Reference:BonesUnselectable 68
+    400232: Reference:BonesUnselectable 69
+    400234: Reference:BonesUnselectable 7
+    400236: Reference:BonesUnselectable 70
+    400238: Reference:BonesUnselectable 71
+    400240: Reference:BonesUnselectable 72
+    400242: Reference:BonesUnselectable 8
+    400244: Reference:BonesUnselectable 9
+    400246: Reference:cocodrilo
+    400248: Reference:CtrDown
+    400250: Reference:CtrDownLeft
+    400252: Reference:CtrDownMiddle
+    400254: Reference:CtrDownRight
+    400256: Reference:CtrUp
+    400258: Reference:CtrUpLeft
+    400260: Reference:CtrUpMiddle
+    400262: Reference:CtrUpRight
+    400264: Reference:escamas
+    400266: Reference:Hips
+    400268: Reference:LeftForeArmRoll
+    400270: Reference:LeftLegRoll
+    400272: Reference:null
+    400274: Reference:null1
+    400276: Reference:null11
+    400278: Reference:null12
+    400280: Reference:null13
+    400282: Reference:null2
+    400284: Reference:null33
+    400286: Reference:null35
+    400288: Reference:null37
+    400290: Reference:null39
+    400292: Reference:null4
+    400294: Reference:null41
+    400296: Reference:null42
+    400298: Reference:null43
+    400300: Reference:null6
+    400302: Reference:null7
+    400304: Reference:null8
+    400306: Reference:ojo_der
+    400308: Reference:ojo_izq
+    400310: Reference:Reference
+    400312: Reference:RightForeArmRoll
+    400314: Reference:RightLegRoll
+    400316: Reference:root
+    400318: Reference:Tongue1
+    400320: Reference:Tongue2
+    400322: Reference:Tongue3
+    400324: Reference:TongueEnd
+    400326: RightAnkleEffector
+    400328: RightAnkleEffectorPivot1
+    400330: RightAnkleEffectorPivot2
+    400332: RightArm
+    400334: RightElbowEffector
+    400336: RightFoot
+    400338: RightForeArm
+    400340: RightForeArmRoll
+    400342: RightHand
+    400344: RightHandIndex1
+    400346: RightHandIndex2
+    400348: RightHandIndex3
+    400350: RightHandIndex4
+    400352: RightHandIndexEffector
+    400354: RightHandMiddle1
+    400356: RightHandMiddle2
+    400358: RightHandMiddle3
+    400360: RightHandMiddle4
+    400362: RightHandMiddleEffector
+    400364: RightHandRing1
+    400366: RightHandRing2
+    400368: RightHandRing3
+    400370: RightHandRing4
+    400372: RightHandRingEffector
+    400374: RightHandThumb1
+    400376: RightHandThumb2
+    400378: RightHandThumb3
+    400380: RightHandThumb4
+    400382: RightHandThumbEffector
+    400384: RightHipEffector
+    400386: RightKneeEffector
+    400388: RightLeg
+    400390: RightLegRoll
+    400392: RightShoulder
+    400394: RightShoulderEffector
+    400396: RightUpLeg
+    400398: RightWristEffector
+    400400: Spine
+    400402: Spine1
+    400404: Spine2
+    2300000: Reference:ojo_der
+    2300002: Reference:ojo_izq
+    3300000: Reference:ojo_der
+    3300002: Reference:ojo_izq
+    4300000: Reference:cocodrilo
+    4300002: Reference:escamas
+    4300004: Reference:ojo_izq
+    4300006: Reference:ojo_der
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Reference:cocodrilo
+    13700002: Reference:escamas
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

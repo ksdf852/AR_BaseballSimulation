@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_mp3 최종프로젝트.CSharp", "Project_mp3 최종프로젝트.CSharp.csproj", "{99D35082-BF69-BB72-53B6-ED00AFB8007D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_mp3 최종프로젝트.CSharp.Editor", "Project_mp3 최종프로젝트.CSharp.Editor.csproj", "{FA290FA4-8619-835C-B699-4F4D370D2382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D35082-BF69-BB72-53B6-ED00AFB8007D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D35082-BF69-BB72-53B6-ED00AFB8007D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D35082-BF69-BB72-53B6-ED00AFB8007D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D35082-BF69-BB72-53B6-ED00AFB8007D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA290FA4-8619-835C-B699-4F4D370D2382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA290FA4-8619-835C-B699-4F4D370D2382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA290FA4-8619-835C-B699-4F4D370D2382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA290FA4-8619-835C-B699-4F4D370D2382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
